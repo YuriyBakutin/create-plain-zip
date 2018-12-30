@@ -1,0 +1,13 @@
+{
+  "name": "create-plain-zip",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YuriyBakutin/create-plain-zip"
+  },
+  "dependencies": {
+    "zip-stream": "^2.0.1"
+  }
+}
